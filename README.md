@@ -1,13 +1,11 @@
-# SmithA159.github.io #
+# A Github Readme file created to serve as a directory for notes for now ##
 
-## A Github Readme file created to serve as a directory for notes for now ##
-
-### **📖 Code 201 Reading Notes Header 📖** ###
+## **📖 Code 201 Reading Notes Header 📖** ###
 
 
 <!--Not sure what we're going to do here exactly, I think we're just making seperate note pages for each daily reading?-->
 
-####Assignment notes
+###Assignment notes
 
 1. [Reading Assignment 1](Reading1.md)
 2. Reading Assignment 2
@@ -24,3 +22,5 @@
 13. Reading Assignment 13
 14. Reading Assignment 14
 15. Reading Assignment 15
+
+![](sloth.jpg)
