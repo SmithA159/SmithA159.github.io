@@ -1,15 +1,15 @@
 # SmithA159.github.io #
 
-## The Readme markdown file as requested ##
+## A Github Readme file created to serve as a directory for notes for now ##
 
 ### **📖 Code 201 Reading Notes Header 📖** ###
 
 
 <!--Not sure what we're going to do here exactly, I think we're just making seperate note pages for each daily reading?-->
 
-Placeholder Title section for reading assignment notes
+####Assignment notes
 
-1. Reading Assignment 1
+1. [Reading Assignment 1](Reading1.md)
 2. Reading Assignment 2
 3. Reading Assignment 3
 4. Reading Assignment 4
